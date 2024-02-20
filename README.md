@@ -16,7 +16,7 @@
 
 ---
 
->  Projeto desenvolvido por: [Jhonatan Silva](https://github.com/Jhonatan-777/ "Github Jhonatan Silva")
+>  Projeto desenvolvido por: [Jhonatan.](https://github.com/Jhonatan-777/ "Github Jhonatan Silva")
 
 > Desing feito por: [DevMedia](https://www.devmedia.com.br/ "Escola de Programação")
 
